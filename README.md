@@ -8,7 +8,7 @@ Step 2) cd Go-Language (go to specific directory)
 
 Step 3) go run filename.go
 
-For any queries you can send message on prasadjivane@gmail.com
+For any queries you can raise change request through pr here.
 
 # To Fllow Me
 LinkedIn :- https://www.linkedin.com/in/prasadjivane/
