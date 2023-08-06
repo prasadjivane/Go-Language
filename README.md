@@ -11,8 +11,8 @@ Step 3) go run filename.go
 For any queries you can raise change request through pr here.
 
 # To Fllow Me
-LinkedIn :- https://www.linkedin.com/in/prasadjivane/
+LinkedIn :- https://www.linkedin.com/in/prasadjivane
 
 Github :- https://github.com/prasadjivane
 
-Medium :- https://medium.com/@prasadjivane
+Medium :- https://prasadjivane.medium.com
